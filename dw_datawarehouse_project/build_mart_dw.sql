@@ -4,3 +4,6 @@
 
 --- load data from csv files into tables
 .read load_schema_dw.sql
+
+-- create flat mart
+.read create_flat_mart.sql
