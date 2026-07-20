@@ -7,3 +7,6 @@
 
 -- create flat mart
 .read create_flat_mart.sql
+
+-- create skills demand mart
+.read create_skills_mart.sql
